@@ -11,8 +11,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
-cd project_3D_developer_portfolio
+git clone
+cd portfolio
 ```
 
 **Installation**
@@ -683,9 +683,6 @@ module.exports = {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
 
 ## <a name="more">🚀 More</a>
 
